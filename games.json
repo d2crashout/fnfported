@@ -9,7 +9,7 @@
             "links":[
                 {
                     "name":"FNFPorted",
-                    "link":"https://jaguarkid817.github.io/fnf/"
+                    "link":"https://jaguarkid817.github.io/fnfported/fnf/"
                 }
             ],
             "tags": [
@@ -19,15 +19,15 @@
             ]
         },
         {
-            "name":"friday_night_funkin_tricky",
-            "fName":"Friday Night Funkin Tricky Mod",
+            "name":"fnf_tricky",
+            "fName":"The Tricky Mod",
             "description":"A hellclown appears in this fun FNF mod. Can you defeat him?",
-            "image":"/fnfported/assets/images/game_covers/fnf.jpg",
+            "image":"/fnfported/assets/images/game_covers/tricky.jpg",
             "online":true,
             "links":[
                 {
                     "name":"FNFPorted",
-                    "link":"https://jaguarkid817.github.io/tricky/"
+                    "link":"https://jaguarkid817.github.io/fnfported/tricky/"
                 }
             ],
             "tags": [
