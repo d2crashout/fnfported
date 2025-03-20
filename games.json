@@ -3,7 +3,7 @@
         {
             "name":"friday_night_funkin",
             "fName":"Friday Night Funkin",
-            "description":"Friday Night Funkin' is a rhythm game where you play as Boyfriend and try to impress Girlfriend's family with your singing skills.",
+            "description":"Sigma rhythm game where you vibe with ur gf",
             "image":"/fnfported/assets/images/game_covers/fnf.jpg",
             "online":true,
             "links":[
@@ -13,15 +13,12 @@
                 }
             ],
             "tags": [
-                "rhythm",
-                "music",
-                "skill"
             ]
         },
         {
             "name":"fnf_tricky",
             "fName":"The Tricky Mod",
-            "description":"A hellclown appears in this fun FNF mod. Can you defeat him?",
+            "description":"The tricky mod for my bros",
             "image":"/fnfported/assets/images/game_covers/tricky.png",
             "online":true,
             "links":[
@@ -31,10 +28,6 @@
                 }
             ],
             "tags": [
-                "rhythm",
-                "music",
-                "skill",
-                "mod"
             ]
         }
     ]

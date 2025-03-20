@@ -12,13 +12,8 @@ function onload() {
             }
         });
         if (currentLocation !== "/") {
-            log("Adding back button");
-            document.querySelector("header").querySelector("h1").innerHTML = "";
-            const back = document.createElement("a");
-            back.href = "/";
-            back.innerHTML = "<- Home";
-            back.classList.add("cc");
-            document.querySelector("header").querySelector("h1").appendChild(back);
+            log("Doin nothin");
+            document.querySelector("header").querySelector("h1").innerHTML = "FNFPorted";
 
         }
     }
