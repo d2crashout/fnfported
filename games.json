@@ -4,12 +4,12 @@
             "name":"friday_night_funkin",
             "fName":"Friday Night Funkin",
             "description":"Sigma rhythm game where you vibe with ur gf",
-            "image":"/fnfported/assets/images/game_covers/fnf.jpg",
+            "image":"/assets/images/game_covers/fnf.jpg",
             "online":true,
             "links":[
                 {
                     "name":"FNFPorted",
-                    "link":"https://jaguarkid817.github.io/fnfported/fnf/"
+                    "link":"https://jaguarkid817.github.io/fnf/"
                 }
             ],
             "tags": [
@@ -19,12 +19,12 @@
             "name":"fnf_tricky",
             "fName":"The Tricky Mod",
             "description":"The tricky mod for my bros",
-            "image":"/fnfported/assets/images/game_covers/tricky.png",
+            "image":"/assets/images/game_covers/tricky.png",
             "online":true,
             "links":[
                 {
                     "name":"FNFPorted",
-                    "link":"https://jaguarkid817.github.io/fnfported/tricky/"
+                    "link":"https://jaguarkid817.github.io/tricky/"
                 }
             ],
             "tags": [
