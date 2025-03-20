@@ -4,12 +4,12 @@
             "name":"friday_night_funkin",
             "fName":"Friday Night Funkin",
             "description":"Friday Night Funkin' is a rhythm game where you play as Boyfriend and try to impress Girlfriend's family with your singing skills.",
-            "image":"/assets/images/game_covers/fnf.jpg",
+            "image":"/fnfported/assets/images/game_covers/fnf.jpg",
             "online":true,
             "links":[
                 {
                     "name":"FNFPorted",
-                    "link":"https://arandomdev12.github.io/fnf/"
+                    "link":"https://jaguarkid817.github.io/fnf/"
                 }
             ],
             "tags": [
@@ -21,13 +21,13 @@
         {
             "name":"friday_night_funkin_tricky",
             "fName":"Friday Night Funkin Tricky Mod",
-            "description":"Friday Night Funkin' is a rhythm game where you play as Boyfriend and try to impress Girlfriend's family with your singing skills.",
-            "image":"/assets/images/game_covers/fnf.jpg",
+            "description":"A hellclown appears in this fun FNF mod. Can you defeat him?",
+            "image":"/fnfported/assets/images/game_covers/fnf.jpg",
             "online":true,
             "links":[
                 {
                     "name":"FNFPorted",
-                    "link":"https://arandomdev12.github.io/tricky/"
+                    "link":"https://jaguarkid817.github.io/tricky/"
                 }
             ],
             "tags": [
