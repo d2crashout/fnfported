@@ -1,0 +1,30 @@
+name: Deploy to Devtunnels
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["beta"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      # - name: SSH to machine and start devtunnels
+        # uses: appleboy/ssh-action@v1.2.0
+        # with:
+          # host: ${{ secrets.HOST }}
+          # username: WEBSERVER\abhim
+          # password: ${{ secrets.PASSWORD }}
+          # port: ${{ secrets.PORT }}
+          # script: whoami
+      - name: ls -a via ssh
+        uses: garygrossgarten/github-action-ssh@release
+        with:
+          command: whoami
+          host: ${{ secrets.HOST }}
+          username: abhi
+          password: ${{ secrets.PASSWORD }}
+          port: ${{ secrets.PORT}}
