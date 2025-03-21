@@ -17,14 +17,14 @@
         },
         {
             "name":"fnf_tricky",
-            "fName":"The Tricky Mod",
-            "description":"if you hate this mod just know that u a clown vro",
-            "image":"/assets/images/game_covers/tricky.png",
+            "fName":"Smoke Em Struggles",
+            "description":"we all cried playing this rip garcello (little outdated will update soon -d2ford1",
+            "image":"/assets/images/game_covers/tricky.jpg",
             "online":true,
             "links":[
                 {
                     "name":"FNFPorted",
-                    "link":"https://d2crashout.github.io/tricky/"
+                    "link":"https://d1crashoutford2.github.io/garcellorip/"
                 }
             ],
             "tags": [
