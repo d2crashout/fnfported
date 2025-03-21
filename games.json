@@ -29,20 +29,3 @@
             ],
             "tags": [
             ]
-        },
-        {
-            "name":"fnf_tricky",
-            "fName":"VS Tricky Mod",
-            "description":"tiki cookie",
-            "image":"/assets/images/game_covers/tricky.png",
-            "online":true,
-            "links":[
-                {
-                    "name":"FNFPorted",
-                    "link":"https://d2crashout.github.io/garcello/"
-                }
-            ],
-            "tags": [
-            ]
-    ]
-}
