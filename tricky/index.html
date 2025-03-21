@@ -1,13 +1,8 @@
 <!DOCTYPE html>
     <body>
-        <iframe src="https://tbg95.github.io/fnf-the-tricky-mod/game.html" frameborder="0"></iframe>
+        <iframe src="https://tbg95.github.io/fnf-the-tricky-mod/game.html" frameborder="0" scrolling="yes" width="1200" height="1000" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">></iframe>
     </body>
-    <div class="cc_stats" style="position: fixed; top: 0px; left: 0px; opacity: 0.8; z-index: 10000; background-color: rgba(0, 0, 0, 0.8); color: rgb(0, 255, 255); font-family: monospace; font-size: 12px; padding: 5px 5px 20px; display: none; flex-direction: row; align-items: flex-start; max-width: 100vw; max-height: 100vh; box-sizing: border-box; overflow: auto; cursor: default;"><div id="stats" style="width: 33.333333333333336vw;max-height:100vh;overflow:scroll;padding:5px;box-sizing:border-box;"><h1>stats</h1>
-        <div><strong>Time:</strong> <span id="cc_stats_time"></span></div><div><strong>Version:</strong> <span id="cc_stats_version"></span></div><div><strong>Request Interception Loaded:</strong> <span id="cc_stats_requestInterceptionLoaded"></span></div><div><strong>Memory:</strong> <span id="cc_stats_memory"></span></div><div><strong>Cpu:</strong> <span id="cc_stats_cpu"></span></div><div><strong>User:</strong> <span id="cc_stats_user"></span></div><div><strong>Game:</strong> <span id="cc_stats_game"></span></div><div><strong>Last Tracking Tick:</strong> <span id="cc_stats_lastTrackingTick"></span></div><div><strong>Last Auto Sync:</strong> <span id="cc_stats_lastAutoSync"></span></div><div><strong>Current State From:</strong> <span id="cc_stats_currentStateFrom"></span></div><div><strong>Mouse:</strong> <span id="cc_stats_mouse"></span></div><div><strong>Mouse Covering:</strong> <span id="cc_stats_mouseCovering"></span></div><div><strong>Tracking Data:</strong> <span id="cc_stats_trackingData"></span></div></div><div id="logs" style="width: 33.333333333333336vw;max-height:100vh;overflow:scroll;padding:5px;box-sizing:border-box;"><h1>logs</h1>
-        <button onclick="document.getElementById('cc_stats_logs').innerHTML = '';">Clear</button>
-        <pre style="white-space: pre-wrap;" id="cc_stats_logs">
-</pre>
-        <input type="text" placeholder="Eval" onkeydown="if(event.key === 'Enter') { window.ccPorted.stats.log('<',this.value);try{let o = eval(this.value);window.ccPorted.stats.log('>',o);}catch(err){window.ccPorted.stats.log(err)} this.value = '' }"></div><div id="requests" style="width: 33.333333333333336vw;max-height:100vh;overflow:scroll;padding:5px;box-sizing:border-box;"><h1>requests</h1>
-        <button onclick="fetch('/assets/images/ovo.jpg')">Test Request</button><button onclick="document.getElementById('cc_stats_requestsIntercepted').innerHTML = '';">Clear</button>
-        <button onclick="fetch('https://httpbin.org/post', {method: 'POST', body: JSON.stringify({test: 'test'})})">Test Post</button>
-        <div id="cc_stats_requestsIntercepted"></div></div></div>
+<style>
+    	html,body { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+		#openfl-content { background: #000000; width: 100%; height: 100%; }
+</style>
