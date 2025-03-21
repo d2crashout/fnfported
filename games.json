@@ -16,15 +16,15 @@
             ]
         },
         {
-            "name":"fnf_tricky",
+            "name":"fnf_garcello",
             "fName":"Smoke Em Struggles",
-            "description":"we all cried playing this rip garcello (little outdated will update soon -d2ford1",
-            "image":"/assets/images/game_covers/tricky.jpg",
+            "description":"we all cried playing this rip garcello (little outdated will update soon)",
+            "image":"/assets/images/game_covers/garcello.png",
             "online":true,
             "links":[
                 {
                     "name":"FNFPorted",
-                    "link":"https://d1crashoutford2.github.io/garcellorip/"
+                    "link":"https://d2crashout.github.io/garcello/"
                 }
             ],
             "tags": [
