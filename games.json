@@ -44,6 +44,21 @@
             ],
             "tags": [
             ]
+        },
+        {
+            "name":"fnf_kapi",
+            "fName":"VS Kapi Mod",
+            "description":"nyaw is peak cuz very good charting",
+            "image":"/assets/images/game_covers/kapi.png",
+            "online":true,
+            "links":[
+                {
+                    "name":"FNFPorted",
+                    "link":"https://d2crashout.github.io/kapi/"
+                }
+            ],
+            "tags": [
+            ]
         }
     ]
 }
