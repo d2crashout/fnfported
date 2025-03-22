@@ -127,7 +127,7 @@ try {
                 // cta: false,
                 // autoClose: 7
         // });
-            const gamesJson = await importJSON("/games.json");
+            const gamesJson = await importJSON("/fnfported/games.json");
             const { games } = gamesJson;
             log(`Games ${games.length} found.`);
             games.forEach(game => {
@@ -223,7 +223,7 @@ try {
                 link: "https://forms.gle/KN7CCoY5UTUB4ELZ6"
             }
         });
-        const gamesJson = await importJSON("/games.json");
+        const gamesJson = await importJSON("/fnfported/games.json");
         const { games } = gamesJson;
         log(`Got ${games.length} games`);
         let clicks;
