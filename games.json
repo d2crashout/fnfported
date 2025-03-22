@@ -4,12 +4,12 @@
             "name":"friday_night_funkin",
             "fName":"Friday Night Funkin",
             "description":"getting funky on a friday night lol",
-            "image":"/assets/images/game_covers/fnf.jpg",
+            "image":"/fnfported/assets/images/game_covers/fnf.jpg",
             "online":true,
             "links":[
                 {
                     "name":"FNFPorted",
-                    "link":"https://d2crashout.github.io/fnfported/fnf/"
+                    "link":"/fnfported/fnf/"
                 }
             ],
             "tags": [
@@ -19,12 +19,12 @@
             "name":"fnf_garcello",
             "fName":"Smoke Em Struggles",
             "description":"we all cried playing this rip garcello (little outdated will update soon)",
-            "image":"/assets/images/game_covers/garcello.png",
+            "image":"/fnfported/assets/images/game_covers/garcello.png",
             "online":true,
             "links":[
                 {
                     "name":"FNFPorted",
-                    "link":"https://d2crashout.github.io/fnfported/garcello/"
+                    "link":"/fnfported/garcello/"
                 }
             ],
             "tags": [
@@ -34,12 +34,12 @@
             "name":"fnf_tricky",
             "fName":"VS Tricky Mod",
             "description":"tiki and like the cookie",
-            "image":"/assets/images/game_covers/tricky.png",
+            "image":"/fnfported/assets/images/game_covers/tricky.png",
             "online":true,
             "links":[
                 {
                     "name":"FNFPorted",
-                    "link":"https://d2crashout.github.io/fnfported/tricky/"
+                    "link":"/fnfported/tricky/"
                 }
             ],
             "tags": [
@@ -49,12 +49,12 @@
             "name":"fnf_kapi",
             "fName":"VS Kapi Mod",
             "description":"nyaw is peak cuz very good charting",
-            "image":"/assets/images/game_covers/kapi.png",
+            "image":"/fnfported/assets/images/game_covers/kapi.png",
             "online":true,
             "links":[
                 {
                     "name":"FNFPorted",
-                    "link":"https://d2crashout.github.io/fnfported/kapi/"
+                    "link":"/fnfported/kapi/"
                 }
             ],
             "tags": [
