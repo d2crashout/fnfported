@@ -59,6 +59,51 @@
             ],
             "tags": [
             ]
+        },
+        {
+            "name":"fnf_whitty",
+            "fName":"VS Whitty",
+            "description":"you bout to explode",
+            "image":"/fnfported/assets/images/game_covers/whitty.png",
+            "online":true,
+            "links":[
+                {
+                    "name":"FNFPorted",
+                    "link":"/fnfported/whitty/"
+                }
+            ],
+            "tags": [
+            ]
+        },
+        {
+            "name":"fnf_zardy",
+            "fName":"VS Zardy(Scarecrow)",
+            "description":"OOH SHIVER ME TIMBERS",
+            "image":"/fnfported/assets/images/game_covers/zardy.png",
+            "online":true,
+            "links":[
+                {
+                    "name":"FNFPorted",
+                    "link":"/fnfported/zardy/"
+                }
+            ],
+            "tags": [
+            ]
+        },
+        {
+            "name":"fnf_hex",
+            "fName":"VS Hex Mod",
+            "description":"get a better antivirus bro",
+            "image":"/fnfported/assets/images/game_covers/hex.png",
+            "online":true,
+            "links":[
+                {
+                    "name":"FNFPorted",
+                    "link":"/fnfported/hex/"
+                }
+            ],
+            "tags": [
+            ]
         }
     ]
 }
