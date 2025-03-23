@@ -104,6 +104,66 @@
             ],
             "tags": [
             ]
+        },
+        {
+            "name":"fnf_bside",
+            "fName":"FNF BSides",
+            "description":"cool remix of fnf",
+            "image":"/fnfported/assets/images/game_covers/bside.png",
+            "online":true,
+            "links":[
+                {
+                    "name":"FNFPorted",
+                    "link":"/fnfported/bside/"
+                }
+            ],
+            "tags": [
+            ]
+        },
+        {
+            "name":"fnf_neo",
+            "fName":"FNF Neo",
+            "description":"another fnf remix",
+            "image":"/fnfported/assets/images/game_covers/neo.png",
+            "online":true,
+            "links":[
+                {
+                    "name":"FNFPorted",
+                    "link":"/fnfported/neo/"
+                }
+            ],
+            "tags": [
+            ]
+        },
+        {
+            "name":"fnf_sarventes",
+            "fName":"Mid Fight Masses",
+            "description":"get a better antivirus bro",
+            "image":"/fnfported/assets/images/game_covers/sarventes.png",
+            "online":true,
+            "links":[
+                {
+                    "name":"FNFPorted",
+                    "link":"/fnfported/sarventes/"
+                }
+            ],
+            "tags": [
+            ]
+        },
+        {
+            "name":"fnf_ugh_high_effort",
+            "fName":"Ugh(High Effort)",
+            "description":"tankman ugh v2",
+            "image":"/fnfported/assets/images/game_covers/ugh(he).png",
+            "online":true,
+            "links":[
+                {
+                    "name":"FNFPorted",
+                    "link":"/fnfported/ugh/"
+                }
+            ],
+            "tags": [
+            ]
         }
     ]
 }
